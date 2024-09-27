@@ -1,0 +1,21 @@
+[
+    {
+      "name": "Junetina (govedina)",
+      "calories": 276,
+      "protein": 15.0,
+      "carbohydrates": 0.0,
+      "fats": 23.5,
+      "type": "Meso",
+      "macronutrient": "Proteini"
+    },
+    {
+      "name": "Pečenica",
+      "calories": 345,
+      "protein": 15.0,
+      "carbohydrates": 0.0,
+      "fats": 30.0,
+      "type": "Meso",
+      "macronutrient": "Proteini"
+    }
+  ]
+  

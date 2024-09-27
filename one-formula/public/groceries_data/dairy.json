@@ -1,0 +1,21 @@
+[
+    {
+      "name": "Mleko",
+      "calories": 42,
+      "protein": 3.4,
+      "carbohydrates": 4.8,
+      "fats": 1.0,
+      "type": "Mlečni proizvod",
+      "macronutrient": "Proteini"
+    },
+    {
+      "name": "Jogurt",
+      "calories": 60,
+      "protein": 5.5,
+      "carbohydrates": 7.0,
+      "fats": 1.5,
+      "type": "Mlečni proizvod",
+      "macronutrient": "Proteini"
+    }
+  ]
+  
