@@ -2,6 +2,7 @@ import { useState } from 'react'
 import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import BMRCalculator from './components/BMRCalculator.JSX'
+import TDEECalculator from './components/TDEECalculator.JSX'
 
 
 function App() {
@@ -9,7 +10,8 @@ function App() {
 
   return (
     <>
-      <BMRCalculator></BMRCalculator>
+      {/* <BMRCalculator></BMRCalculator> */}
+      <TDEECalculator></TDEECalculator>
     </>
   )
 }
